@@ -33,7 +33,7 @@ export default function AppLayout() {
           <header className="h-14 flex items-center border-b px-3 gap-2">
             <SidebarTrigger />
             <Link to="/dashboard" className="font-semibold text-sm md:text-base">
-              BeastCRM Clone
+              BeastCRM
             </Link>
             <div className="ml-auto flex items-center gap-2">
               <div className="hidden md:block w-64">
