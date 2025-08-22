@@ -62,7 +62,7 @@ const Auth = () => {
     <div className="min-h-screen flex items-center justify-center ambient-bg p-4">
       <Card className="w-full max-w-md card-elevated">
         <CardHeader className="text-center">
-          <CardTitle className="text-2xl font-bold">BeastCRMlalala</CardTitle>
+          <CardTitle className="text-2xl font-bold">BeastCRM</CardTitle>
           <CardDescription>
             Inicia sesión para acceder a tu cuenta
           </CardDescription>
